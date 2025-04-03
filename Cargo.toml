@@ -11,6 +11,6 @@ repository = "https://github.com/mintlu8/iter_imd"
 description = """
 Express difference between two iterators as insertions, modifications and removals.
 """
-keywords = ["iter", "iterator", "diff", "insert", "modify", "remove"]
+keywords = ["iter", "iterator", "diff"]
 [dependencies]
 ordermap = "0.5.6"
