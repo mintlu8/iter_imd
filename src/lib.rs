@@ -1,5 +1,6 @@
-use std::hash::Hash;
+#![doc = include_str!("../README.md")]
 
+use std::hash::Hash;
 mod iterators;
 use iterators::{IterImd, IterImdMapped, MapOrIter, SetOrIter};
 
